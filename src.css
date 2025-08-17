@@ -1,0 +1,12 @@
+.myheadername{
+color: green;
+background-color: skyblue;
+font-family: "Arial";
+padding: 5px;
+}
+.mystyle{
+    color: blue;
+    background-color: pink;
+    font-family: "Times New Roman";     
+    padding: 10px; 
+}
